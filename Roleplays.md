@@ -7,7 +7,7 @@
   * Node
   * Clients (2-3)
 
-# Act 1 - Pure IO - Single Client
+# Setup
 Line up the actors from Crowd's right to left:
   Hard Drive
   IO Driver
@@ -17,6 +17,12 @@ Line up the actors from Crowd's right to left:
   Node
   Client(1)
 
+The basket of colored blocks should be next to the Hard drive.  Preferably setup in a way they cannot see inside of the basket when they reach in.
+
+If possible, setup a small table in-front of the kernel.
+
+
+# Act 1 - Pure IO - Single Client
 Make sure you hand each actor the *script* for their part.
 
 In this act the client will ask node for a specific color block.   As in the game of telephone each actor should as the next actor to their left for that color block.  Then the blocks are passed back according to the script given to each actor.
@@ -71,5 +77,3 @@ When everyone is ready, initiate.
 After this act, it should be noted that the CPU was able to accomplish the same level of work as the previous act.  However in much less time.
 
 Thank everyone for their participation.  (It would be advisble to bring in some sort of take home participation rewards).
-
-
